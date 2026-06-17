@@ -223,7 +223,7 @@ I am particularly interested in opportunities involving:
 
 # 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: https://www.linkedin.com/in/sama2104ka71/
+- Email: smartin.data@outlook.com
 
  Feel free to explore my repositories and connect with me.
